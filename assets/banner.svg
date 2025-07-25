@@ -23,5 +23,5 @@
 
   <!-- Text -->
   <text x="600" y="260" font-family="Segoe UI, sans-serif" font-size="40" text-anchor="middle" fill="#ffffff">TIAGO ALMEIDA</text>
-  <text x="600" y="310" font-family="Segoe UI, sans-serif" font-size="24" text-anchor="middle" fill="#A9D6FF">CLOUD & CYBERSECURITY ENTHUSIAST</text>
+  <text x="600" y="310" font-family="Segoe UI, sans-serif" font-size="24" text-anchor="middle" fill="#A9D6FF">CLOUD &amp; CYBERSECURITY ENTHUSIAST</text>
 </svg>
