@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TiagoJRAlmeida/TiagoJRAlmeida/main/assets/banner.png" alt="Tiago Almeida - Header Banner"/>
+  <img src="https://raw.githubusercontent.com/TiagoJRAlmeida/TiagoJRAlmeida/main/assets/banner.svg" alt="Tiago Almeida - Header Banner"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#0099ff;">Tiago Almeida</span></h1>

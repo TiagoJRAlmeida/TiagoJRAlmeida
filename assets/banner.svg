@@ -8,19 +8,26 @@
 
   <rect width="1200" height="400" fill="url(#bg)" />
 
-  <!-- Lock Icon -->
-  <g transform="translate(300, 120) scale(1.2)">
+  <!-- Lock Icon 1 -->
+  <g transform="translate(220, 160) scale(1.2)">
     <rect x="0" y="60" width="80" height="80" rx="10" fill="#0f88c2"/>
     <circle cx="40" cy="40" r="30" stroke="#0f88c2" stroke-width="10" fill="none"/>
-    <polyline points="25,100 40,115 65,90" fill="none" stroke="#fff" stroke-width="6" />
+    <polyline points="25,100 40,115 60,85" fill="none" stroke="#fff" stroke-width="6" />
   </g>
 
   <!-- Cloud Icon -->
-  <g transform="translate(480, 120) scale(1.2)">
+  <g transform="translate(450, 80) scale(1.2)">
     <path d="M70 100a30 30 0 0 1 0-60 40 40 0 0 1 80 0 30 30 0 1 1 10 60H70z"
           fill="#1E90FF"/>
   </g>
 
+  <!-- Lock Icon 2 -->
+  <g transform="translate(880, 160) scale(1.2)">
+    <rect x="0" y="60" width="80" height="80" rx="10" fill="#0f88c2"/>
+    <circle cx="40" cy="40" r="30" stroke="#0f88c2" stroke-width="10" fill="none"/>
+    <polyline points="25,100 40,115 60,85" fill="none" stroke="#fff" stroke-width="6" />
+  </g>
+  
   <!-- Text -->
   <text x="600" y="260" font-family="Segoe UI, sans-serif" font-size="40" text-anchor="middle" fill="#ffffff">TIAGO ALMEIDA</text>
   <text x="600" y="310" font-family="Segoe UI, sans-serif" font-size="24" text-anchor="middle" fill="#A9D6FF">CLOUD &amp; CYBERSECURITY ENTHUSIAST</text>
