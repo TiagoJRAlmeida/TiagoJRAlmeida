@@ -8,13 +8,7 @@
 
   <rect width="1200" height="400" fill="url(#bg)" />
 
-  <!-- Cloud Icon -->
-  <g transform="translate(450, 80) scale(1.2)">
-    <path d="M70 100a30 30 0 0 1 0-60 40 40 0 0 1 80 0 30 30 0 1 1 10 60H70z"
-          fill="#1E90FF"/>
-  </g>
-
   <!-- Text -->
-  <text x="600" y="260" font-family="Segoe UI, sans-serif" font-size="40" text-anchor="middle" fill="#ffffff">TIAGO ALMEIDA</text>
-  <text x="600" y="310" font-family="Segoe UI, sans-serif" font-size="24" text-anchor="middle" fill="#A9D6FF">LINUX, CLOUD &amp; CYBERSECURITY ENTHUSIAST</text> 
+  <text x="600" y="160" font-family="Segoe UI, sans-serif" font-size="40" text-anchor="middle" fill="#ffffff">TIAGO ALMEIDA</text>
+  <text x="600" y="210" font-family="Segoe UI, sans-serif" font-size="24" text-anchor="middle" fill="#A9D6FF">LINUX, LOW-LEVEL DEVELOPMENT &amp; CYBERSECURITY ENTHUSIAST</text> 
 </svg>

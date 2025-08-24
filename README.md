@@ -1,31 +1,41 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TiagoJRAlmeida/TiagoJRAlmeida/main/assets/banner.svg" alt="Tiago Almeida - Header Banner"/>
+  <img src="assets/banner.svg" alt="Tiago Almeida - Header Banner"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#0099ff;">Tiago Almeida</span></h1>
-<p align="center">🎓 Computer Engineering Graduate • 🛡️ Cybersecurity Enthusiast • ☁️ Cloud Learner • 💻 Linux Lover</p>
+<p align="center">🎓 Computer Engineering Graduate • 🛡️ Cybersecurity Enthusiast • ⚙️ Embedded Systems Explorer • 💻 Linux Lover</p>
 
 ---
 
 ## 🔍 About Me
 
-I’m a recent graduate in **Computer Engineering**, with a growing passion for **Linux**, **cybersecurity**, **cloud computing**, and solving technical challenges that matter.
+I’m a recent graduate in **Computer Engineering**, with a growing passion for **Linux**, **cybersecurity**, **embedded systems**, and solving technical challenges that matter.
 
 - 🎓 Candidate for a **Master's in Cybersecurity**
 - 🇵🇹 Based in **Portugal**
 - 🧠 CTF participant | always learning
-- 🔭 Open to discussing internships or junior positions, particularly interested in roles in Cloud, Linux, or Cybersecurity.
+- 🔭 Open to discussing internships or junior positions, particularly interested in roles in **Embedded Programming**, **Low-Level Development**, or **Cybersecurity**
+
 ---
 
 ## ⚒️ Tech Toolbox
 
 ### 👨‍💻 Languages
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### ⚙️ Embedded & Low-Level Tools
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ARM](https://img.shields.io/badge/-ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Makefile](https://img.shields.io/badge/-Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white)
 
 ### 📦 Libraries & Frameworks
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -54,17 +64,17 @@ I’m a recent graduate in **Computer Engineering**, with a growing passion for 
 
 ## 📚 Currently Learning
 
-- ☁️ **AWS**
-- 🌩️ **Azure** (next)
-- 🐳 **Kubernetes**
-- 🔐 Expanding knowledge in **Cloud Security & IAM**
+- ⚙️ **Embedded C & C++ for Microcontrollers**
+- 🖥️ **ARM Assembly & Bare-Metal Programming**
+- 🔌 **IoT & Embedded Linux**
+- ⏱️ **Real-Time Operating Systems (RTOS)**
 
 ---
 
 ## 🚧 Projects
 
 > 🛠️ **Work in progress!**  
-> I’ll be showcasing **cybersecurity**, **cloud**, and **automation-related** projects soon.
+> I’ll be showcasing **embedded systems**, **low-level development**, and **cybersecurity-related** projects soon.
 
 ---
 
