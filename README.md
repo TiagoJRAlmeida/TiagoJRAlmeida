@@ -16,6 +16,8 @@ I participate in CTF competitions, have conducted real-world vulnerability resea
 
 Open to internships and junior positions in **Cybersecurity**, **Software Development**, or **Cloud/DevOps**.
 
+> **My Portfolio Website:** https://tiagojralmeida.github.io/
+
 ---
 
 ## Projects
@@ -37,12 +39,16 @@ Open to internships and junior positions in **Cybersecurity**, **Software Develo
   </tr>
   <tr>
     <td valign="top" width="50%">
+            <h3><a href="https://github.com/TiagoJRAlmeida/entity-resolution-port-logistics">Entity Resolution — Port Logistics</a></h3>
+      <sup><code>Python</code> &nbsp;<code>NLP</code> &nbsp;<code>FAISS</code> &nbsp;<code>Data Engineering</code></sup>
+      <br/><br/>
+      Data standardization and entity resolution system built for the Port of Sines under the NEXUS programme. Clusters millions of inconsistent company name records using semantic embeddings (SentenceTransformers) and approximate nearest-neighbour search (FAISS), achieving ~80% F1-score across ~4M rows in ~20 minutes.
+    </td>
+    <td valign="top" width="50%">
       <h3>Project TBD</h3>
       <sup><code>Work in Progress</code></sup>
       <br/><br/>
       <em>Details coming soon.</em>
-    </td>
-    <td valign="top" width="50%">
     </td>
   </tr>
 </table>
