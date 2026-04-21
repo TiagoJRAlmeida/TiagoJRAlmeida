@@ -3,14 +3,13 @@
   <img src="assets/banner.svg" alt="Tiago Almeida - Header Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#0099ff;">Tiago Almeida</span></h1>
-<p align="center">Computer Engineering Graduate &nbsp;|&nbsp; MSc Cybersecurity Candidate &nbsp;|&nbsp; Portugal</p>
+<p align="center">💻 Computer Engineering Graduate &nbsp;|&nbsp; 🔒 MSc Cybersecurity &nbsp;|&nbsp; 🇵🇹 Portugal</p>
 
 ---
 
 ## About Me
 
-Computer Engineering graduate currently pursuing a Master's in Cybersecurity. My work sits at the intersection of secure software development, systems programming, and infrastructure — with a growing focus on cloud and DevOps practices.
+Computer Engineering graduate currently pursuing a Master's in Cybersecurity. My work sits at the intersection of secure software development, systems programming, and infrastructure, with a growing focus on cloud and DevOps practices.
 
 I participate in CTF competitions, have conducted real-world vulnerability research, and tend to gravitate toward projects where security is a first-class concern rather than an afterthought.
 
@@ -45,8 +44,6 @@ Open to internships and junior positions in **Cybersecurity**, **Software Develo
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SentenceTransformers](https://img.shields.io/badge/-SentenceTransformers-3C3C3C?style=for-the-badge)
-![Faiss](https://img.shields.io/badge/-Faiss-232F3E?style=for-the-badge)
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
