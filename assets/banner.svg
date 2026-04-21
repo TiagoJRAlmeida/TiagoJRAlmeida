@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0f2027" />
@@ -6,8 +6,8 @@
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="400" fill="url(#bg)" />
+  <rect width="1200" height="300" fill="url(#bg)" />
 
-  <text x="600" y="160" font-family="Segoe UI, sans-serif" font-size="40" text-anchor="middle" fill="#ffffff">TIAGO ALMEIDA</text>
-  <text x="600" y="210" font-family="Segoe UI, sans-serif" font-size="24" text-anchor="middle" fill="#A9D6FF">COMPUTER ENGINEERING &amp; CYBERSECURITY</text>
+  <text x="600" y="130" font-family="Segoe UI, sans-serif" font-size="40" text-anchor="middle" fill="#ffffff">TIAGO ALMEIDA</text>
+  <text x="600" y="170" font-family="Segoe UI, sans-serif" font-size="24" text-anchor="middle" fill="#A9D6FF">COMPUTER ENGINEERING &amp; CYBERSECURITY</text>
 </svg>
