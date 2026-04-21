@@ -18,44 +18,6 @@ Open to internships and junior positions in **Cybersecurity**, **Software Develo
 
 ---
 
-## Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### Security & Networking
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
-![GNS3](https://img.shields.io/badge/-GNS3-2D2D2D?style=for-the-badge)
-
-### Infrastructure & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-### Libraries & Frameworks
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Databases
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
 ## Projects
 
 <table>
