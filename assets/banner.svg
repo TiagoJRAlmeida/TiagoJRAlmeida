@@ -8,7 +8,6 @@
 
   <rect width="1200" height="400" fill="url(#bg)" />
 
-  <!-- Text -->
   <text x="600" y="160" font-family="Segoe UI, sans-serif" font-size="40" text-anchor="middle" fill="#ffffff">TIAGO ALMEIDA</text>
-  <text x="600" y="210" font-family="Segoe UI, sans-serif" font-size="24" text-anchor="middle" fill="#A9D6FF">LINUX, LOW-LEVEL DEVELOPMENT &amp; CYBERSECURITY ENTHUSIAST</text> 
+  <text x="600" y="210" font-family="Segoe UI, sans-serif" font-size="24" text-anchor="middle" fill="#A9D6FF">COMPUTER ENGINEERING &amp; CYBERSECURITY</text>
 </svg>

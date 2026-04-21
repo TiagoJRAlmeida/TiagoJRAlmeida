@@ -3,90 +3,86 @@
   <img src="assets/banner.svg" alt="Tiago Almeida - Header Banner"/>
 </p>
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#0099ff;">Tiago Almeida</span></h1>
-<p align="center">🎓 Computer Engineering Graduate • 🛡️ Cybersecurity Enthusiast • ⚙️ Embedded Systems Explorer • 💻 Linux Lover</p>
+<h1 align="center">Hi, I'm <span style="color:#0099ff;">Tiago Almeida</span></h1>
+<p align="center">Computer Engineering Graduate &nbsp;|&nbsp; MSc Cybersecurity Candidate &nbsp;|&nbsp; Portugal</p>
 
 ---
 
-## 🔍 About Me
+## About Me
 
-I’m a recent graduate in **Computer Engineering**, with a growing passion for **Linux**, **cybersecurity**, **embedded systems**, and solving technical challenges that matter.
+Computer Engineering graduate currently pursuing a Master's in Cybersecurity. My work sits at the intersection of secure software development, systems programming, and infrastructure — with a growing focus on cloud and DevOps practices.
 
-- 🎓 Candidate for a **Master's in Cybersecurity**
-- 🇵🇹 Based in **Portugal**
-- 🧠 CTF participant | always learning
-- 🔭 Open to discussing internships or junior positions, particularly interested in roles in **Embedded Programming**, **Low-Level Development**, or **Cybersecurity**
+I participate in CTF competitions, have conducted real-world vulnerability research, and tend to gravitate toward projects where security is a first-class concern rather than an afterthought.
+
+Open to internships and junior positions in **Cybersecurity**, **Software Development**, or **Cloud/DevOps**.
 
 ---
 
-## ⚒️ Tech Toolbox
+## Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-### ⚙️ Embedded & Low-Level Tools
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ARM](https://img.shields.io/badge/-ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Makefile](https://img.shields.io/badge/-Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white)
-
-### 📦 Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=for-the-badge)
-![Faiss](https://img.shields.io/badge/-Faiss-232F3E?style=for-the-badge)
-![ANTLR4](https://img.shields.io/badge/-ANTLR4-EE1C25?style=for-the-badge)
-![SentenceTransformers](https://img.shields.io/badge/-SentenceTransformers-3C3C3C?style=for-the-badge)
-![Levenshtein](https://img.shields.io/badge/-Levenshtein-3C3C3C?style=for-the-badge)
-
-### 🔐 DevOps & Security Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Security & Networking
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![GNS3](https://img.shields.io/badge/-GNS3-2D2D2D?style=for-the-badge)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🗄️ Databases
+### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+### Libraries & Frameworks
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/-SentenceTransformers-3C3C3C?style=for-the-badge)
+![Faiss](https://img.shields.io/badge/-Faiss-232F3E?style=for-the-badge)
+
+### Databases
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite3](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
----
-
-## 📚 Currently Learning
-
-- ⚙️ **Embedded C & C++ for Microcontrollers**
-- 🖥️ **ARM Assembly & Bare-Metal Programming**
-- 🔌 **IoT & Embedded Linux**
-- ⏱️ **Real-Time Operating Systems (RTOS)**
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-## 🚧 Projects
+## Projects
 
-> 🛠️ **Work in progress!**  
-> I’ll be showcasing **embedded systems**, **low-level development**, and **cybersecurity-related** projects soon.
+### [Secure Document Repository](https://github.com/TiagoJRAlmeida/secure-document-repository)
+A cryptographically secured document repository with role-based access control, built from scratch in Python using a client-server architecture with end-to-end encryption and integrity verification.
 
----
-
-## 💡 Hobbies & Fun Facts
-
-- 🧠 I enjoy solving CTF challenges in my free time  
-- 🛠️ I love automating things at home with **embedded systems & IoT**
-- 💻 I believe in learning by doing — and breaking things along the way  
+Key design points: AES-CBC encryption at rest with per-document keys, RSA-OAEP/PSS session establishment, HMAC-SHA256 integrity on all authenticated traffic, replay attack mitigation via monotonic nonces, and a containerised deployment that replaced ~3,000 lines of redundant code from the original implementation.
 
 ---
 
-## 📈 Profile
+### [IBM VDP — Critical Vulnerability Research Report](https://github.com/TiagoJRAlmeida/ibm-vdp-research)
+A documented real-world vulnerability discovery carried out through IBM's Vulnerability Disclosure Program.
+
+---
+
+### [Project Name TBD](#)
+*Work in progress — details coming soon.*
+
+---
+
+## Currently Learning
+
+- Cloud infrastructure and administration (AWS / Azure)
+- Container orchestration with Kubernetes
+- Offensive security techniques for CTF and research
+
+---
+
+## Profile Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TiagoJRAlmeida&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoJRAlmeida&layout=compact&theme=radical" alt="Top Languages" />
@@ -94,7 +90,7 @@ I’m a recent graduate in **Computer Engineering**, with a growing passion for 
 
 ---
 
-## 🌐 Connect With Me
+## Contact
 
 <a href="assets/CV.pdf">
     <img src="https://img.shields.io/badge/-Resume-000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume">
